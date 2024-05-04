@@ -5,7 +5,6 @@ import Header from './Components/Header';
 import Sidebar from './Components/Sidebar';
 import About from './Components/About';
 import Resume from './Components/Resume';
-import Skills from './Components/Skills';
 import Contact from './Components/Contact';
 
 function App() {
@@ -19,7 +18,6 @@ function App() {
             <Route path="/" element={<About />} />
             <Route path="/about" element={<About />} />
             <Route path="/resume" element={<Resume />} />
-            <Route path="/skills" element={<Skills />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>
         </div>
