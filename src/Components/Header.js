@@ -10,7 +10,6 @@ const Header = () => {
                 <ul style={styles.linksUl}>
                     <li><Link to="/about" className='linksA' style={styles.linksA}>About</Link></li>
                     <li><Link to="/resume" className='linksA' style={styles.linksA}>Resume</Link></li>
-                    <li><Link to="/skills" className='linksA' style={styles.linksA}>Skills</Link></li>
                     <li><Link to="/contact" className='linksA' style={styles.linksA}>Contact</Link></li>
                 </ul>
             </nav>
