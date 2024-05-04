@@ -70,12 +70,13 @@ const styles = {
         display: 'flex',
         flexWrap: 'wrap',
         justifyContent: 'space-between',
+        marginBottom: '7px',
     },
     innerBox2: {
         gap: '20px',
         padding: '35px',
         width: '322px',
-        height: '70px',
+        height: '90px',
         color: 'white',
     },
     img: {
