@@ -35,7 +35,7 @@ const Form = () => {
 
 const styles = {
     iframe: {
-        height: 300,
+        height: 400,
         width: '100%',
         borderRadius: '20px',
         filter: 'grayscale(1) invert(1)',
@@ -62,7 +62,7 @@ const styles = {
     textArea: {
         height: '140px',
         padding: '10px',
-        width: '100%',
+        width: '98%',
         backgroundColor: 'transparent',
         border: 'none',
         borderRadius: '13px',
