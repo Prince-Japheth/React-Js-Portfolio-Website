@@ -58,6 +58,8 @@ const styles = {
     padding: '60px 20px',
     width: '246px',
     height: 'fit-content',
+    position: 'sticky',
+    top: '50px',
   },
   sideImg: {
     width: '150px',
